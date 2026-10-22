@@ -1,0 +1,113 @@
+{
+  "project": "Hospitality Beach",
+  "brand": "MEMENTO",
+  "descriptor": "Hotel & Beach",
+  "locale": "it",
+  "isConcept": true,
+  "hero": {
+    "title": "Ci vediamo al mare.",
+    "subtitle": "Sole sulla pelle. Zero programmi.",
+    "cta": "Entra in vacanza"
+  },
+  "rooms": [
+    {
+      "id": "suite-baia",
+      "name": "Camera Mare",
+      "description": "Un balcone sul blu e un risveglio luminoso.",
+      "amenities": [
+        "Balcone sul mare",
+        "Letto matrimoniale",
+        "Aria condizionata",
+        "Wi-Fi"
+      ],
+      "isConcept": true,
+      "price": null,
+      "availability": null
+    },
+    {
+      "id": "suite-giardino",
+      "name": "Camera Pineta",
+      "description": "Il verde dei pini, la calma che cercavi.",
+      "amenities": [
+        "Balcone sul verde",
+        "Angolo lettura",
+        "Aria condizionata",
+        "Wi-Fi"
+      ],
+      "isConcept": true,
+      "price": null,
+      "availability": null
+    },
+    {
+      "id": "suite-panorama",
+      "name": "Family Room",
+      "description": "Più spazio per i ricordi da fare insieme.",
+      "amenities": [
+        "Letto matrimoniale",
+        "Due letti singoli",
+        "Spazi per la famiglia",
+        "Aria condizionata"
+      ],
+      "isConcept": true,
+      "price": null,
+      "availability": null
+    }
+  ],
+  "services": [
+    {
+      "id": "spiaggia",
+      "title": "A piedi nudi. Finalmente.",
+      "label": "Mare e spiaggia",
+      "description": "Un bagno, una passeggiata, il tuo posto sotto l’ombrellone.",
+      "imageId": "private-beach",
+      "isConcept": true
+    },
+    {
+      "id": "spa",
+      "title": "Modalità relax.",
+      "label": "Piscina e relax",
+      "description": "Acqua, ombra e il tempo di fermarsi.",
+      "imageId": "spa",
+      "isConcept": true
+    },
+    {
+      "id": "fitness",
+      "title": "Fuori, a respirare.",
+      "label": "Bici e dintorni",
+      "description": "La pineta, il lungomare e la libertà di muoversi piano.",
+      "imageId": "fitness",
+      "isConcept": true
+    },
+    {
+      "id": "ristorante",
+      "title": "Le cose buone, insieme.",
+      "label": "Colazione e aperitivo",
+      "description": "Dal primo caffè all’ultimo brindisi, al ritmo dell’estate.",
+      "imageId": "dining",
+      "isConcept": true
+    }
+  ],
+  "booking": {
+    "mode": "demo",
+    "title": "Il tuo soggiorno",
+    "notice": "Prenotazione dimostrativa: nessuna richiesta viene inviata.",
+    "success": "Simulazione completata. Nessuna prenotazione è stata effettuata.",
+    "fields": [
+      "arrival",
+      "departure",
+      "adults",
+      "children",
+      "roomId",
+      "interests",
+      "notes"
+    ],
+    "collectPersonalData": false
+  },
+  "footer": {
+    "brand": "MEMENTO",
+    "conceptNotice": "Hotel dimostrativo. Immagini generate e prenotazione simulata.",
+    "email": null,
+    "phone": null,
+    "address": null
+  }
+}

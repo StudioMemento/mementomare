@@ -1,0 +1,37 @@
+{
+  "export": "MEMENTO_MARE_VERCEL_V01",
+  "preparedAt": "2026-10-22T14:27:55.934077+00:00",
+  "sourceCommit": "965ec9de854da744b27bcd4cf5badbc8e272fec4",
+  "cleanInstall": "passed",
+  "node": "v24.19.0",
+  "typecheck": "passed",
+  "productionBuild": "passed",
+  "tests": {
+    "passed": 15,
+    "failed": 0
+  },
+  "staticHtmlFilesIncluding404": 13,
+  "reports": {
+    "distribution": {
+      "directRoutes": 11,
+      "referencedAssets": 22,
+      "jsGzipBytes": 145484,
+      "cssGzipBytes": 31527,
+      "generatedPhotos": 9,
+      "browserQA": "Desktop hero and anchor observed. Room-image fallback observed; further browser testing blocked by URL policy."
+    },
+    "editorial": {
+      "prerenderedRoutes": 12,
+      "internalLinksChecked": 247,
+      "imagesWithAltAndDimensions": 63,
+      "uniqueImageAssets": 18,
+      "duplicateIds": 0,
+      "missingAriaTargets": 0,
+      "browserValidation": false
+    }
+  },
+  "vercelDeployed": false,
+  "newBrowserTests": false,
+  "bookingIntegration": "Not configured; local stay plan only",
+  "priorVisualLimits": "Desktop arrival and room anchor observed in the original session. A room-image fallback was observed; full responsive and interaction QA remained blocked by browser policy."
+}

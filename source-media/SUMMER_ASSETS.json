@@ -1,0 +1,92 @@
+[
+  {
+    "id": "summer-hero",
+    "original": "exec-83e1fe95-4dee-43ac-8c42-b3a0af970aa4.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-hero-768.webp",
+      "/assets/photos/summer-hero-1536.webp"
+    ]
+  },
+  {
+    "id": "summer-beach",
+    "original": "exec-ce70dc85-c1ad-4a17-9a83-fa621eed9d23.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-beach-768.webp",
+      "/assets/photos/summer-beach-1536.webp"
+    ]
+  },
+  {
+    "id": "summer-room-mare",
+    "original": "exec-4fa6f0da-f671-40fa-8417-f256c393634c.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-room-mare-768.webp",
+      "/assets/photos/summer-room-mare-1536.webp"
+    ]
+  },
+  {
+    "id": "summer-room-pineta",
+    "original": "exec-e6363a60-3b1f-48c5-81d3-19d2008e87ad.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-room-pineta-768.webp",
+      "/assets/photos/summer-room-pineta-1536.webp"
+    ]
+  },
+  {
+    "id": "summer-room-family",
+    "original": "exec-a7b65d70-f01c-4051-81e2-4c04efe2e0c7.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-room-family-768.webp",
+      "/assets/photos/summer-room-family-1536.webp"
+    ]
+  },
+  {
+    "id": "summer-pool",
+    "original": "exec-fd6d308c-cd13-4eb2-8cc6-7c19cc8c37cd.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-pool-768.webp",
+      "/assets/photos/summer-pool-1536.webp"
+    ]
+  },
+  {
+    "id": "summer-table",
+    "original": "exec-054a4995-284c-4a1d-b22e-802f9c867563.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-table-768.webp",
+      "/assets/photos/summer-table-1536.webp"
+    ]
+  },
+  {
+    "id": "summer-breakfast",
+    "original": "exec-ca700646-ed86-435f-8e79-6bfa314b80ce.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-breakfast-768.webp",
+      "/assets/photos/summer-breakfast-1536.webp"
+    ]
+  },
+  {
+    "id": "summer-bike",
+    "original": "exec-825d9261-dc36-46ef-9b7d-42a4ca04f9ea.png",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      "/assets/photos/summer-bike-768.webp",
+      "/assets/photos/summer-bike-1536.webp"
+    ]
+  }
+]

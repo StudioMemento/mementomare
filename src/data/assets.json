@@ -1,0 +1,294 @@
+{
+  "project": "Hospitality Beach",
+  "brand": "MEMENTO",
+  "descriptor": "Hotel & Beach",
+  "version": "3.0",
+  "created": "2026-10-16",
+  "pathsRelativeTo": "package-root",
+  "images": [
+    {
+      "id": "approved-board",
+      "path": "resources/design/approved-board.png",
+      "role": "approved-design-reference-only",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Tavola MEMENTO Mare: identità, home desktop e mobile.",
+      "generatedForConcept": true,
+      "hasBakedWebsiteUI": true
+    },
+    {
+      "id": "hero-beach",
+      "path": "resources/photos/hero-beach.png",
+      "role": "standalone-hero",
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "alt": "Baia privata mediterranea e padiglioni MEMENTO in pietra chiara.",
+      "generatedForConcept": true,
+      "hasBakedWebsiteUI": false
+    },
+    {
+      "id": "service-contact-sheet",
+      "path": "resources/photos/service-contact-sheet.png",
+      "role": "six-photo-source-sheet",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "Tavola fotografica con sei scene del concept.",
+      "generatedForConcept": true,
+      "hasBakedWebsiteUI": false
+    }
+  ],
+  "logo": {
+    "wordmark": "resources/brand/memento-wordmark-color.svg",
+    "lockup": "resources/brand/memento-lockup-color.svg",
+    "lightWordmark": "resources/brand/memento-wordmark-light.svg",
+    "lightLockup": "resources/brand/memento-lockup-light.svg",
+    "favicon": "resources/brand/favicon.svg"
+  },
+  "fonts": [
+    "resources/fonts/cormorant-garamond-latin.woff2",
+    "resources/fonts/manrope-latin.woff2"
+  ],
+  "videoFiles": [],
+  "runtimeHeroIds": [
+    "hero-beach"
+  ],
+  "mobileObjectPositionSuggestion": "60% 50%",
+  "sourcePolicy": "Use only MEMENTO assets, not photos or logos from reference hotels.",
+  "runtime": {
+    "hero": [
+      {
+        "path": "/assets/photos/summer-hero-768.webp",
+        "width": 768,
+        "height": 512
+      },
+      {
+        "path": "/assets/photos/summer-hero-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ],
+    "notes": "Summer V3: nine original Adriatic-inspired hotel photographs. 768/1536 WebP responsive derivatives.",
+    "photos": [
+      {
+        "id": "summer-hero",
+        "original": "exec-83e1fe95-4dee-43ac-8c42-b3a0af970aa4.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-hero-768.webp",
+          "/assets/photos/summer-hero-1536.webp"
+        ]
+      },
+      {
+        "id": "summer-beach",
+        "original": "exec-ce70dc85-c1ad-4a17-9a83-fa621eed9d23.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-beach-768.webp",
+          "/assets/photos/summer-beach-1536.webp"
+        ]
+      },
+      {
+        "id": "summer-room-mare",
+        "original": "exec-4fa6f0da-f671-40fa-8417-f256c393634c.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-room-mare-768.webp",
+          "/assets/photos/summer-room-mare-1536.webp"
+        ]
+      },
+      {
+        "id": "summer-room-pineta",
+        "original": "exec-e6363a60-3b1f-48c5-81d3-19d2008e87ad.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-room-pineta-768.webp",
+          "/assets/photos/summer-room-pineta-1536.webp"
+        ]
+      },
+      {
+        "id": "summer-room-family",
+        "original": "exec-a7b65d70-f01c-4051-81e2-4c04efe2e0c7.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-room-family-768.webp",
+          "/assets/photos/summer-room-family-1536.webp"
+        ]
+      },
+      {
+        "id": "summer-pool",
+        "original": "exec-fd6d308c-cd13-4eb2-8cc6-7c19cc8c37cd.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-pool-768.webp",
+          "/assets/photos/summer-pool-1536.webp"
+        ]
+      },
+      {
+        "id": "summer-table",
+        "original": "exec-054a4995-284c-4a1d-b22e-802f9c867563.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-table-768.webp",
+          "/assets/photos/summer-table-1536.webp"
+        ]
+      },
+      {
+        "id": "summer-breakfast",
+        "original": "exec-ca700646-ed86-435f-8e79-6bfa314b80ce.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-breakfast-768.webp",
+          "/assets/photos/summer-breakfast-1536.webp"
+        ]
+      },
+      {
+        "id": "summer-bike",
+        "original": "exec-825d9261-dc36-46ef-9b7d-42a4ca04f9ea.png",
+        "width": 1536,
+        "height": 1024,
+        "sources": [
+          "/assets/photos/summer-bike-768.webp",
+          "/assets/photos/summer-bike-1536.webp"
+        ]
+      }
+    ]
+  },
+  "photoPanelsArchive": [
+    {
+      "id": "private-beach",
+      "title": "Spiaggia privata",
+      "alt": "Una baia mediterranea con lettini, asciugamano MEMENTO e ospiti lontani.",
+      "source": "resources/photos/service-contact-sheet.png",
+      "sourceRect": [
+        0,
+        0,
+        507,
+        507
+      ],
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "nativePanelWidth": 507,
+      "nativePanelHeight": 507,
+      "usage": "compact-preview",
+      "productionLargeFormat": "Regenerate a standalone image with 07_IMAGE_VIDEO_PROMPTS.md before large-format use."
+    },
+    {
+      "id": "suite",
+      "title": "Suite",
+      "alt": "Lino vissuto, vetrata e vista sulla stessa baia.",
+      "source": "resources/photos/service-contact-sheet.png",
+      "sourceRect": [
+        515,
+        0,
+        505,
+        507
+      ],
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "nativePanelWidth": 505,
+      "nativePanelHeight": 507,
+      "usage": "compact-preview",
+      "productionLargeFormat": "Regenerate a standalone image with 07_IMAGE_VIDEO_PROMPTS.md before large-format use."
+    },
+    {
+      "id": "spa",
+      "title": "Spa",
+      "alt": "Piscina interna, sauna e bagno di vapore in pietra chiara.",
+      "source": "resources/photos/service-contact-sheet.png",
+      "sourceRect": [
+        1029,
+        0,
+        507,
+        507
+      ],
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "nativePanelWidth": 507,
+      "nativePanelHeight": 507,
+      "usage": "compact-preview",
+      "productionLargeFormat": "Regenerate a standalone image with 07_IMAGE_VIDEO_PROMPTS.md before large-format use."
+    },
+    {
+      "id": "fitness",
+      "title": "Palestra e personal training",
+      "alt": "Allenamento guidato in palestra con vista mare.",
+      "source": "resources/photos/service-contact-sheet.png",
+      "sourceRect": [
+        0,
+        515,
+        507,
+        509
+      ],
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "nativePanelWidth": 507,
+      "nativePanelHeight": 509,
+      "usage": "compact-preview",
+      "productionLargeFormat": "Regenerate a standalone image with 07_IMAGE_VIDEO_PROMPTS.md before large-format use."
+    },
+    {
+      "id": "dining",
+      "title": "Alta cucina",
+      "alt": "Servizio al tavolo e cucina mediterranea al crepuscolo.",
+      "source": "resources/photos/service-contact-sheet.png",
+      "sourceRect": [
+        515,
+        515,
+        505,
+        509
+      ],
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "nativePanelWidth": 505,
+      "nativePanelHeight": 509,
+      "usage": "compact-preview",
+      "productionLargeFormat": "Regenerate a standalone image with 07_IMAGE_VIDEO_PROMPTS.md before large-format use."
+    },
+    {
+      "id": "care",
+      "title": "Relax",
+      "alt": "Un momento dopo la spa, accappatoio MEMENTO e una tazza di tè.",
+      "source": "resources/photos/service-contact-sheet.png",
+      "sourceRect": [
+        1029,
+        515,
+        507,
+        509
+      ],
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "nativePanelWidth": 507,
+      "nativePanelHeight": 509,
+      "usage": "compact-preview",
+      "productionLargeFormat": "Regenerate a standalone image with 07_IMAGE_VIDEO_PROMPTS.md before large-format use."
+    }
+  ],
+  "legacyHeroArchive": [
+    {
+      "path": "/assets/photos/hero-900.webp",
+      "width": 900,
+      "height": 507
+    },
+    {
+      "path": "/assets/photos/hero-1280.webp",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "path": "/assets/photos/hero-1672.webp",
+      "width": 1672,
+      "height": 941
+    }
+  ]
+}
